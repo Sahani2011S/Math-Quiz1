@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(125, 231, 255);
+}
+#player1,#player2{
+    float: none;
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+}
+h3{
+margin-top: 10px;
+}
